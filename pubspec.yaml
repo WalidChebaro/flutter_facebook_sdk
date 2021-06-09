@@ -4,8 +4,8 @@ version: 0.0.5
 homepage: https://github.com/saadfarhan124/flutter_facebook_sdk
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.20.0"
+  sdk: ">=2.13.0 <3.0.0"
+  flutter: ">=2.0.0"
 
 dependencies:
   flutter:
@@ -37,7 +37,6 @@ flutter:
       #   pluginClass: FlutterFacebookSdkPlugin
       ios:
         pluginClass: FlutterFacebookSdkPlugin
-     
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
